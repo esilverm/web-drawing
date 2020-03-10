@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <symbol id="bottom-trap" viewBox="0 0 700 345">
+    <title>bottom trapezoid</title>
+    <path d="M0,0
+              L700,0
+              L670,345
+              L31,345z"></path>
+  </symbol> 
+  
+  <symbol id="top-trap" viewBox="0 0 700 345">
+    <title>top trapezoid</title>
+    <path d="M31,0
+            L670,0
+            L700,345
+            L0,345z"></path>
+  </symbol> 
+  <symbol id="left-trap" viewBox="0 0 350 525">
+    <title>left trapezoid</title>
+    <path d="M0,62
+          L0,462
+          L350,525
+          L350,0z"></path>
+  </symbol> 
+  <symbol id="right-trap" viewBox="0 0 350 525">
+    <title>right trapezoid</title>
+    <path d="M0,0
+          L0,525
+          L350,462
+          L350,62z"></path>
+  </symbol> 
+</svg>
